@@ -1,0 +1,186 @@
+{
+  "bookings": [
+    {
+      "id": "0537",
+      "name": "N",
+      "date": "2025-08-16",
+      "time": "11:00",
+      "service": "Haircut"
+    },
+    {
+      "id": "e8cc",
+      "name": "uyj",
+      "date": "2025-08-05",
+      "time": "21:54",
+      "service": "hair styling"
+    },
+    {
+      "id": "54fe",
+      "name": "Ani",
+      "contact": "+37494729950",
+      "date": "2025-08-14",
+      "time": "14:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 35000
+    },
+    {
+      "id": "0798",
+      "name": "Narine",
+      "contact": "+37494729950",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 35000
+    },
+    {
+      "id": "df64",
+      "name": "Ani",
+      "contact": "+37494729950",
+      "date": "2025-08-16",
+      "time": "16:00",
+      "services": [
+        "Hair coloring",
+        "Haircut",
+        "Hair styling"
+      ],
+      "totalPrice": 49500
+    },
+    {
+      "id": "7497",
+      "name": "e",
+      "contact": "+37494729950",
+      "date": "2025-08-08",
+      "time": "15:30",
+      "services": [
+        "Hair coloring",
+        "Haircut",
+        "Hair styling"
+      ],
+      "totalPrice": 55000
+    },
+    {
+      "id": "5acd",
+      "name": "Narine Petrosyan",
+      "contact": "+37494729950",
+      "date": "2025-08-08",
+      "time": "14:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 35000
+    },
+    {
+      "id": "9037",
+      "name": "hhh",
+      "contact": "+37494729950",
+      "date": "2025-08-01",
+      "time": "15:00",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 35000
+    },
+    {
+      "id": "4d6f",
+      "name": "f",
+      "contact": "+37494729950",
+      "date": "2025-08-01",
+      "time": "13:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 31500
+    },
+    {
+      "id": "bca2",
+      "name": "f",
+      "contact": "+37494729950",
+      "date": "2025-08-03",
+      "time": "15:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 31500
+    },
+    {
+      "id": "f416",
+      "name": "d",
+      "contact": "+37494729950",
+      "date": "2025-08-03",
+      "time": "14:00",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 31500
+    },
+    {
+      "id": "02e3",
+      "name": "g",
+      "contact": "+37494729950",
+      "date": "2025-08-13",
+      "time": "13:00",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 35000
+    },
+    {
+      "id": "4d5a",
+      "name": "f",
+      "contact": "+37494729950",
+      "date": "2025-08-05",
+      "time": "14:00",
+      "services": [
+        "Haircut"
+      ],
+      "totalPrice": 5000
+    },
+    {
+      "id": "bd33",
+      "name": "Narine Petrosyan",
+      "contact": "nar.petrosyan87@mail.ru",
+      "date": "2025-08-23",
+      "time": "11:30",
+      "services": [
+        "Hair coloring"
+      ],
+      "totalPrice": 31500
+    }
+  ],
+  "services": [
+    {
+      "id": "e245",
+      "name": "Hair coloring",
+      "duration": 50,
+      "price": 35000
+    },
+    {
+      "id": "025e",
+      "name": "Haircut",
+      "duration": 15,
+      "price": 5000
+    },
+    {
+      "id": "0cac",
+      "name": "Hair styling",
+      "duration": 30,
+      "price": 15000
+    },
+    {
+      "id": "0458",
+      "name": "Wedding hairstyle",
+      "duration": 60,
+      "price": 25000
+    },
+    {
+      "id": "932c",
+      "name": "Straight hair styling  (Discount՝10% )",
+      "duration": 15,
+      "price": 1000
+    }
+  ]
+}
